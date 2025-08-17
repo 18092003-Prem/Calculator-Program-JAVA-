@@ -1,2 +1,2 @@
-# Calculator-Program-JAVA-Alfido-Tech-Internship
+# Calculator-Program-JAVA-
 Calculator Program In Java.
